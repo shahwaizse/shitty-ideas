@@ -1,0 +1,22 @@
+make a voice assistant that starts when your computer starts, and can open apps when you tell it to.
+steps:
+-listen for voice
+-speech to text
+-two parts of command:
+	first part will be 'open', 'close', etc. this will be the context of the command.
+	second part of the command will be the specification, such as an app name, or computer, etc.
+-when the command has been recognized by code, do ooga booga stuff to make computer do your bidding
+-maybe try incorporating windows search, or an external search API to make your assistant more smart?
+-incorporate face recognition in it in some way? (not face detection, but like actual face recognition):
+	upon hearing a command, the assistant could open the camera and try to recognize my face
+	if my face is recognized, then the command will execute, if not then assistant will display quirky error dialogue.
+-there's tons of text-to-speech bots, maybe my assistant could talk!
+
+languages I could do this in:
+	python: the easy way out, for bitch boys who don't know how to write code.
+	csharp: michael reeves used to use this for literally everything so how hard can it be.
+	c++: nightmare nightmare nightmare nightmare nightmare nightma............. 
+	dart: because flutter is hip and fly
+	(kind of want a spinny color picker to choose my fate but im afraid it'll choose nightmare nightmare nightmare nightmare nightmare nigh.....)
+
+i was super enthusiastic about this project while writing this but this is seeming more daunting the more i research it
