@@ -1,3 +1,5 @@
 basically a windows form app that updates text in a window every time a face is detected in a frame.
 
 send the info from the c# app to a node server, which then displays the text on a website??
+
+maybe the c# app could be connected to a asp.net server, much better integration
