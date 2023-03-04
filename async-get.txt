@@ -1,0 +1,3 @@
+need to understand async and what it is, in everything from c# to javascript.
+maybe an app that constantly polls for a keypress, and after 10 seconds displays a result.
+the function that displays the result could be asynchronous?
