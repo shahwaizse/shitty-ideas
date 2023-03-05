@@ -1,3 +1,0 @@
-clone the stupid c# face detection app but in java, with the gui and everything because scd is being taught in java WHY JAVA WHYYYYY
-
-try to implement quadrants. program should tell if face is top left, bottom right, etc.
